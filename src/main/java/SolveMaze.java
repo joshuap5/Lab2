@@ -8,7 +8,7 @@ import edu.illinois.cs.cs125.lib.mazemaker.Maze;
  * @see <a href="https://cs125.cs.illinois.edu/lab/2/#maze">Lab 2 Writeup</a>
  */
 @SuppressWarnings("checkstyle:emptyblock")
-public class SolveMaze {
+public class SolveMaze { 
 
     /**
      * Implement your maze solving algorithm in the main method below.
